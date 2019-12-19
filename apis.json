@@ -1,0 +1,47 @@
+{
+    "name": "Springest",
+    "description": "At Springest you'll find 28,823 courses and training programmes brought to you by 525 providers. Search, filter, read reviews by other people and request information directly!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2190-springest.jpg",
+    "tags": [
+        "have api",
+        "learning",
+        "marketplaces",
+        "netherlands",
+        "trainings"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/springest\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Springest",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2190-springest.jpg",
+            "humanURL": "http:\/\/developer.springest.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/springest-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/springest"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Springest"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.springest.com\/api"
+        }
+    ]
+}
